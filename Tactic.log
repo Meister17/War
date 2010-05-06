@@ -1,8 +1,8 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.2.13)  6 MAY 2010 12:52
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.2.13)  6 MAY 2010 17:37
 entering extended mode
  %&-line parsing enabled.
-**РўР°РєС‚РёРєР°.tex
-(./РўР°РєС‚РёРєР°.tex
+**Tactic.tex
+(./Tactic.tex
 LaTeX2e <2005/12/01>
 Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
 yphenation, ukrainian, russian, bulgarian, loaded.
@@ -422,9 +422,8 @@ File: t2aenc.dfu 2006/03/30 v1.1i UTF-8 support for inputenc
 ))
 (/usr/share/texmf-texlive/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-)
-(./РўР°РєС‚РёРєР°.aux)
-\openout1 = `РўР°РєС‚РёРєР°.aux'.
+) (./Tactic.aux)
+\openout1 = `Tactic.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
@@ -441,22 +440,22 @@ LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 21.
+(Font)              <14.4> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 21.
- [1
+(Font)              <7> on input line 23.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-(./РўР°РєС‚РёРєР°.toc
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Tactic.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 5.
+(Font)              <12> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 5.
+(Font)              <6> on input line 8.
 )
 \tf@toc=\write3
-\openout3 = `РўР°РєС‚РёРєР°.toc'.
+\openout3 = `Tactic.toc'.
 
  [1]
 Overfull \hbox (0.27275pt too wide) in paragraph at lines 45--48
@@ -464,63 +463,74 @@ Overfull \hbox (0.27275pt too wide) in paragraph at lines 45--48
 б-ще-ние, ана-
  []
 
-[2] [3] [4]
+[2] [3]
 Overfull \hbox (6.96211pt too wide) in paragraph at lines 106--108
 []\T2A/cmr/m/n/12 отделы, служ-бы и дру-гие по-сто-ян-ные и вре-мен-но со-зда-в
 а-е-мые управ-
  []
 
-[5] [6]
-Overfull \hbox (16.41815pt too wide) in paragraph at lines 154--159
+[4]
+Overfull \hbox (16.41815pt too wide) in paragraph at lines 153--158
 \T2A/cmr/m/n/12 раз-де-ле-ни-я-ми, ча-стя-ми и со-еди-не-ни-я-ми, ав-то-ма-ти-з
 и-ро-ван-ных си-стем управ-
  []
 
-
-Overfull \hbox (10.38835pt too wide) in paragraph at lines 169--171
+[5]
+Overfull \hbox (10.38835pt too wide) in paragraph at lines 168--170
 []\T2A/cmr/m/n/12 контроль за под-го-тов-кой к вы-пол-не-нию за-дач под-чи-нјн-
 ны-ми и управ-
  []
 
-[7] [8] [9] [10] [11]
-Overfull \hbox (3.20537pt too wide) in paragraph at lines 305--306
+[6] [7] [8] [9]
+Overfull \hbox (3.12668pt too wide) in paragraph at lines 297--297
+[]\T2A/cmr/bx/n/17.28 Лекция 7. Морально-психологическое обес-
+ []
+
+
+Overfull \hbox (3.20537pt too wide) in paragraph at lines 303--304
 []\T2A/cmr/m/n/12 Доведение ре-ше-ний военно-политического ру-ко-вод-ства стра-
 ны (ука-
  []
 
-[12]
-Overfull \hbox (0.26848pt too wide) in paragraph at lines 307--308
+
+Overfull \hbox (0.26848pt too wide) in paragraph at lines 305--306
 []\T2A/cmr/m/n/12 Достижение морально-психологического пре-вос-ход-ства над про
 -тив-
  []
 
 
-Overfull \hbox (3.0463pt too wide) in paragraph at lines 312--313
+Overfull \hbox (3.0463pt too wide) in paragraph at lines 310--311
 []\T2A/cmr/m/n/12 Защита войск и на-се-ле-ния от информационно-психологического
  воз-
  []
 
-[13] (./РўР°РєС‚РёРєР°.aux) ) 
+[10]
+Overfull \hbox (6.96198pt too wide) in paragraph at lines 322--323
+[]\T2A/cmr/m/n/12 Защита войск от информационно-психологического воз-дей-ствия 
+про-
+ []
+
+[11] (./Tactic.aux) ) 
 Here is how much of TeX's memory you used:
  1428 strings out of 94834
- 14692 string characters out of 1179181
+ 14604 string characters out of 1179181
  61687 words of memory out of 1500000
  4634 multiletter control sequences out of 10000+50000
  14711 words of font info for 35 fonts, out of 1200000 for 2000
  212 hyphenation exceptions out of 8191
- 24i,4n,24p,560b,254s stack positions out of 5000i,500n,6000p,200000b,5000s
- </home/nmike/.texmf-var/fonts/pk/ljfour/lh/lh-t2a
-/labx1440.600pk> </home/nmike/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1200.600
-pk> </home/nmike/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/nm
-ike/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </home/nmike/.texmf-va
-r/fonts/pk/ljfour/lh/lh-t2a/labx1728.600pk> </home/nmike/.texmf-var/fonts/pk/lj
-four/lh/lh-t2a/lati1440.600pk> </home/nmike/.texmf-var/fonts/pk/ljfour/lh/lh-t2
-a/larm2488.600pk> </home/nmike/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.60
-0pk></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texm
-f-texlive/fonts/type1/bluesky/cm/cmr12.pfb>
-Output written on РўР°РєС‚РёРєР°.pdf (14 pages, 125187 bytes).
+ 24i,5n,24p,635b,262s stack positions out of 5000i,500n,6000p,200000b,5000s
+ </home/nmike/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx144
+0.600pk> </home/nmike/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1200.600pk> </ho
+me/nmike/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/nmike/.tex
+mf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </home/nmike/.texmf-var/fonts/
+pk/ljfour/lh/lh-t2a/labx1728.600pk> </home/nmike/.texmf-var/fonts/pk/ljfour/lh/
+lh-t2a/lati1440.600pk> </home/nmike/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm24
+88.600pk> </home/nmike/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk></us
+r/share/texmf-texlive/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf-texliv
+e/fonts/type1/bluesky/cm/cmr12.pfb>
+Output written on Tactic.pdf (12 pages, 128981 bytes).
 PDF statistics:
- 353 PDF objects out of 1000 (max. 8388607)
+ 358 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
